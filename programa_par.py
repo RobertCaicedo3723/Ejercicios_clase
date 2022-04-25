@@ -6,11 +6,11 @@ print("-----------------------------------")
 
 # Input
 
-numero = int(input("Ingresa un número: "))
+a = int(input("Ingresa un número: "))
 
 # Procesing
 
-if numero % 2 == 0:
-    print("El número es par") # output
+if a % 2 == 0:
+    c = print("El número es par") # output
 else:
-    print("El número es impar") #output
+    c = print("El número es impar") #output
